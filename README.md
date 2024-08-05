@@ -32,8 +32,8 @@ The site is deployed on Render and can be accessed [here](https://g12-bon-appeta
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/bon-appetaft.git
-    cd bon-appetaft
+    git clone https://github.com/chizkuhhh/restaurant-review.git
+    cd restaurant-review
     ```
 2. Install dependencies:
     ```bash
